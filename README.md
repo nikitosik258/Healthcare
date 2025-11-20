@@ -100,12 +100,12 @@
   - `bootstrap: [True, False]`
 
 - **Лучшие настройки (типовой пример):**
- - 'RandomForestRegressor__bootstrap': False,
- - 'RandomForestRegressor__max_depth': 20,
- - 'RandomForestRegressor__max_features': 'sqrt',
- - 'RandomForestRegressor__min_samples_leaf': 1,
- - 'RandomForestRegressor__min_samples_split': 2,
- - 'RandomForestRegressor__n_estimators': 600`
+   - 'RandomForestRegressor__bootstrap': False,
+   - 'RandomForestRegressor__max_depth': 20,
+   - 'RandomForestRegressor__max_features': 'sqrt',
+   - 'RandomForestRegressor__min_samples_leaf': 1,
+   - 'RandomForestRegressor__min_samples_split': 2,
+   - 'RandomForestRegressor__n_estimators': 600`
 
 - **Прирост:**  
   - дало небольшое улучшения всех метрик.
